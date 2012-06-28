@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "VERSION",
+    "gov-repos.gemspec",
     "lib/gov-repos.rb",
     "test/helper.rb",
     "test/test_gov-repos.rb"
